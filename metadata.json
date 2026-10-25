@@ -1,0 +1,6 @@
+{
+  "name": "Number Line Inequality Explorer",
+  "description": "Interactive Grade 7 math explorer for visualizing inequalities, open/closed boundary points, and solution regions on a real-time number line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
